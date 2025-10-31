@@ -22,3 +22,7 @@ def menu_usuario():
         print("Opção inválida. Por favor, escolha 1 ou 2.")
         return menu_usuario()  # Chama a função novamente até uma opção válida ser escolhida
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
